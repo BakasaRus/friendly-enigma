@@ -1,3 +1,3 @@
 # Git demo project
 
-Some interesting things
+Some interesting things with merge conflicts
