@@ -5,3 +5,5 @@ Some interesting things without merge conflicts
 Some ~~boring~~ things with upstreams
 
 Interactive staging is cool
+
+Rerere testing
