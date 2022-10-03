@@ -1,6 +1,6 @@
 # Git demo project
 
-Some interesting things with merge conflicts
+Some interesting things without merge conflicts
 
 Some ~~boring~~ things with upstreams
 
