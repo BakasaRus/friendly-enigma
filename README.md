@@ -6,4 +6,4 @@ Some ~~boring~~ things with upstreams
 
 Interactive staging is cool
 
-Rerere testing
+Rerere && cherry-pick testing
