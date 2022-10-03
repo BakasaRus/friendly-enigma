@@ -3,3 +3,5 @@
 Some interesting things with merge conflicts
 
 Some ~~boring~~ things with upstreams
+
+Rerere testing
